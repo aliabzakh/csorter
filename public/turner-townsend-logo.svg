@@ -1,0 +1,30 @@
+<svg width="200" height="60" viewBox="0 0 200 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Dark blue rectangle background -->
+  <rect width="200" height="60" fill="#003366"/>
+  
+  <!-- White symbol on the left - 12 squares forming T shape -->
+  <g fill="white">
+    <!-- Top row: 3 squares -->
+    <rect x="10" y="10" width="8" height="8"/>
+    <rect x="20" y="10" width="8" height="8"/>
+    <rect x="30" y="10" width="8" height="8"/>
+    <!-- Second row: 4 squares -->
+    <rect x="10" y="20" width="8" height="8"/>
+    <rect x="20" y="20" width="8" height="8"/>
+    <rect x="30" y="20" width="8" height="8"/>
+    <rect x="40" y="20" width="8" height="8"/>
+    <!-- Third row: 3 squares -->
+    <rect x="10" y="30" width="8" height="8"/>
+    <rect x="20" y="30" width="8" height="8"/>
+    <rect x="30" y="30" width="8" height="8"/>
+    <!-- Bottom row: 2 squares -->
+    <rect x="10" y="40" width="8" height="8"/>
+    <rect x="20" y="40" width="8" height="8"/>
+  </g>
+  
+  <!-- Vertical white separator line -->
+  <line x1="55" y1="5" x2="55" y2="55" stroke="white" stroke-width="1"/>
+  
+  <!-- Text: Turner & Townsend -->
+  <text x="70" y="38" font-family="serif" font-size="16" fill="white" font-weight="normal">Turner &amp; Townsend</text>
+</svg>
